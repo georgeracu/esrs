@@ -18,9 +18,9 @@ Table of Contents
 
 Here we have the structure of our team, with roles and responsibilities.
 
-Name | Tech Stack | Role | Comments
--------| ------- | ------ | -----
-
+| Name       | Tech Stack   | Role       | Comments                                                                                                     |
+| ---------- | ------------ | ---------- | ------------------------------------------------------------------------------------------------------------ |
+| Ben Carter | Java, Python | Programmer | Experience with React and Java for web. Extensive ML experience with Python. Always forgets to sign commits. |
 
 ## We are Agile
 
