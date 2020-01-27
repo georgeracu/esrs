@@ -4,15 +4,12 @@ _Regardless of what we discover, we understand and truly believe that everyone d
 
 Table of Contents
 
-* [Team Composition](#team-composition)
-* [We are Agile](#we-are-agile)
-  * [Prime Directive](#prime-directive)
-  * [Agile values](#agile-values)
-* [Learning Resources](#a-curated-list-of-learning-resources)
-  * [Java for small teams](https://ncrcoe.gitbooks.io/java-for-small-teams/content/)
-  * [Create and use GPG key to sign your commits](https://georgeracu.github.io/2019/09/10/setup-gpg-and-git-sign-on-mac.html)
-  * [GitHub help on creating GPG keys for all platforms](https://help.github.com/en/articles/generating-a-new-gpg-key)
-  * [Git book](https://git-scm.com/book/en/v2)
+- [ESRS project](#esrs-project)
+  - [Team composition](#team-composition)
+  - [We are Agile](#we-are-agile)
+    - [Prime Directive](#prime-directive)
+    - [Agile Values](#agile-values)
+- [A curated list of learning resources](#a-curated-list-of-learning-resources)
 
 ## Team composition
 
@@ -30,17 +27,18 @@ We use the Prime Directive as the base for an empathic and respectful conversati
 
 ### Agile Values
 
-* Individuals and interactions over processes and tools
-* Working software over comprehensive documentation
-* Customer collaboration over contract negotiation
-* Responding to change over following a plan
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
 
-* [Manifesto](https://agilemanifesto.org/)
-* [Principles - must read](https://agilemanifesto.org/principles.html)
+- [Manifesto](https://agilemanifesto.org/)
+- [Principles - must read](https://agilemanifesto.org/principles.html)
 
 # A curated list of learning resources
 
-* [Java for small teams](https://ncrcoe.gitbooks.io/java-for-small-teams/content/) - a free book for server-side Java development
-* [Create and use GPG key to sign your commits](https://georgeracu.github.io/2019/09/10/setup-gpg-and-git-sign-on-mac.html)
-* [GitHub help on creating GPG keys for all platforms](https://help.github.com/en/articles/generating-a-new-gpg-key)
-* [Git book](https://git-scm.com/book/en/v2)
+- [Java for small teams](https://ncrcoe.gitbooks.io/java-for-small-teams/content/) - a free book for server-side Java development
+- [Create and use GPG key to sign your commits](https://georgeracu.github.io/2019/09/10/setup-gpg-and-git-sign-on-mac.html)
+- [GitHub help on creating GPG keys for all platforms](https://help.github.com/en/articles/generating-a-new-gpg-key)
+- [Git book](https://git-scm.com/book/en/v2)
+- [Making a Pull Request (PR)](https://www.atlassian.com/git/tutorials/making-a-pull-request)
