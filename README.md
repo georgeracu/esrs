@@ -55,7 +55,7 @@ Bellow we have a list of the tools we use and their role.
 
 ### Slack
 
-We use Slack as our main communication channel. Our slack workspace is [esrs sussex](esrssussex.slack.com). A few channels to join are `esrs`, `announcements`, `general` and `polls`. Currently Slack has integrated GitHub and Trello.
+We use Slack as our main communication channel. Our slack workspace is [esrs sussex](https://esrssussex.slack.com). A few channels to join are `esrs`, `announcements`, `general` and `polls`. Currently Slack has integrated GitHub and Trello.
 
 ### GitHub
 
