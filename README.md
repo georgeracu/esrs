@@ -21,7 +21,7 @@ Here we have the structure of our team, with roles and responsibilities.
 
 | Name                  | Tech Stack                              | Role                  | Comments                                                                                                                        |
 | --------------------- | --------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Ben Carter            | Java, Python                            | Backend Developer     | Experience with React and Java for web. Extensive ML experience with Python. Always forgets to sign commits.                    |
+| Ben Carter            | Java, Python                            | Backend Developer     | Experience with React and Java for web with ML experience in Python. Hides in bushes on fortnite                    |
 | Ege Hoşgüngör         | C#, Java, Python                        | Engineer              | Experience with React Native from last term. Great with Unity with C# and experienced in Java. Sometimes comments in turkish =/ |
 | Biose, Nonso Emmanuel | Kotlin, Java, Javascript, NodeJs, React | Team Lead, Programmer | A non-technical coder                                                                                                           |
 | George Racu           | Java, Kotlin, Clojure, C#               | Developer             | Turning coffee into code                                                                                                        |
