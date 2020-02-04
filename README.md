@@ -49,7 +49,8 @@ We use the Prime Directive as the base for an empathic and respectful conversati
 - [GitHub help on creating GPG keys for all platforms](https://help.github.com/en/articles/generating-a-new-gpg-key)
 - [Git book](https://git-scm.com/book/en/v2)
 - [Making a Pull Request (PR)](https://www.atlassian.com/git/tutorials/making-a-pull-request)
-- [Tracer Bullet](https://wiki.c2.com/?TracerBullets)
+- [Tracer Bullet](https://wiki.c2.com/?TracerBullets)=======
+- [Architecture Decision Record (ADR)](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records)
 
 ## Tooling
 
