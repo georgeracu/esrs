@@ -12,7 +12,7 @@ We need to decide on which language and framework we will use for the backend se
 
 ## Decision
 
-We will use Python and Flask to develop our backend services. Majority of our team members feel comfortable using Python and have experience using Flask. We all aggreed that Python is more suitable for manipulating large sets of data.
+We will use Python and Flask to develop our backend services. Majority of our team members feel comfortable using Python and have experience using Flask. We all agreed that Python is more suitable for manipulating large sets of data.
 
 ## Consequences
 
